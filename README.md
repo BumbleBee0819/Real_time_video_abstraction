@@ -14,13 +14,12 @@ The algorithm includes the following steps.
 
 
 Demo results:
-<div class="main_block">
 
+<div class="main_block">   
     <div class="inner_block">
-        <img src=https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg>
+    <img src=https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg>
     </div>
-
     <div class="inner_block">
-        <img src=https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg >
+    <img src=https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg >
     </div>    
 </div>
