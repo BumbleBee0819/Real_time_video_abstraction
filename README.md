@@ -15,8 +15,8 @@ The algorithm includes the following steps.
 
 Demo results:
 <br>
-<img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg" width="450"/> <img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final1.jpg" width="450"/>
+<img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg" width="400"/> <img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final1.jpg" width="400"/>
 <br>
-<img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage2.png" width="450"/> <img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final2.jpg" width="450"/>
+<img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage2.png" width="400"/> <img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final2.jpg" width="400"/>
 <br>
-<img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage3.jpg" width="450"/> <img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final3.jpg" width="450"/>
+<img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage3.jpg" width="400"/> <img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final3.jpg" width="400"/>
