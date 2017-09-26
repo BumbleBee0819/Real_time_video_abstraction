@@ -12,8 +12,8 @@ The algorithm includes the following steps.
 4) DoG Edge detection.
 5) Color space conversion.
 
+
 Demo results:
 <section>
-    <img width="300" src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage3.jpg">
-    <img width="300" src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage3.jpg">
+    <img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg" style="margin: 0; width: 300; height: 300;" /><img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final1.jpg" style="margin: 0; width: 300; height: 300;" />
 </section>
