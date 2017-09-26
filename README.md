@@ -13,4 +13,4 @@ The algorithm includes the following steps.
 5) Color space conversion.
 
 Demo results:
-![alt text](Real-time-video-abstraction/results/Final1.jpg)
+![alt text](https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final1.jpg)
