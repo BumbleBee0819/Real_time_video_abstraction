@@ -13,7 +13,11 @@ The algorithm includes the following steps.
 5) Color space conversion.
 
 Demo results:
-![alt-text-1](https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final1.jpg)
-![alt-text-2](https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage3.jpg)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final1.jpg)  |  ![](https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage3.jpg)
+
+
+
 ![alt text](https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final2.jpg)
 ![alt text](https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final3.jpg)
