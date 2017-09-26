@@ -16,14 +16,12 @@ from math import tanh
 from scipy import signal
 
 
-
 ''' 0. Modifiable Parameters'''
 # Step 2
 # Bilateral filter
 s = 9 #Diameter of each pixel neighborhood that is used during filtering
 sigmacolor = 17
 sigmaspace = 17
-
 
 # Step 3
 # Color quantization
@@ -43,11 +41,9 @@ tau = 0.981 # typically [0,1] control the center-sourround difference required f
  
 rgb = io.imread('TestImage.jpg')
 
-
 lab = color.rgb2lab(rgb)
 L, a, b = lab[:,:,0], lab[:,:,1], lab[:,:,2]
 m1, n1 = L.shape
-
 
 
 
@@ -57,14 +53,11 @@ L = np.float32(L)
 a = np.float32(a)
 b = np.float32(b)
 
-
 L0 = L
 for i in range(3):
     L = cv2.bilateralFilter(L, s, sigmacolor, sigmaspace)
     a = cv2.bilateralFilter(a, s, sigmacolor, sigmaspace)
     b = cv2.bilateralFilter(b, s, sigmacolor, sigmaspace)
-
-
 
 
 ## Show bilateral filtered image
@@ -85,12 +78,9 @@ for i in range(3):
 #plt.show()
 
 lab1 = lab
-
 lab1[:,:,0] = L
 lab1[:,:,1] = a
 lab1[:,:,2] = b
-
-
 rgb1 = color.lab2rgb(lab1)
 
 img2 = Image.new( 'RGB', (n1,m1),'black') 
@@ -104,8 +94,6 @@ for i in range(m1):
     
 
 misc.imsave('bilateral filtered image.jpg',img2) 
-
-
 
 
 
@@ -187,8 +175,6 @@ for i in range(m1):
 
 misc.imsave('color quantized image.jpg',img2) 
 
-  
-  
   
   
 
