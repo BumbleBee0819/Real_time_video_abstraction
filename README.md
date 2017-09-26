@@ -14,5 +14,6 @@ The algorithm includes the following steps.
 
 
 Demo results:
-<img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg" width="200"/> <img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final1.jpg" width="300"/>
+<br>
+<img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg" width="350"/> <img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/Final1.jpg" width="350"/>
 
