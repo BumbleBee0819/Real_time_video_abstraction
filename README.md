@@ -14,7 +14,13 @@ The algorithm includes the following steps.
 
 
 Demo results:
-<img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<p> Original Image </p>
-<img src="https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<p> Processed Image </p>
+<div class="main_block">
+
+    <div class="inner_block">
+        <img src=https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg>
+    </div>
+
+    <div class="inner_block">
+        <img src=https://github.com/BumbleBee0819/Real-time-video-abstraction/blob/master/results/TestImage1.jpg >
+    </div>    
+</div>
