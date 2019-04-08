@@ -1,3 +1,7 @@
+[![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/BumbleBee0819/Real-time-video-abstraction/issues)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # Real-time-video-abstraction
 This python project implements the algorithm described in "Real-Time Video Abstraction" (Winnemöller, Olsen, & Gooch, 2006).
 This code is part of the final project of CSC 589 (2015 Spring) by Dr. Bei Xiao.
