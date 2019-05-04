@@ -4,7 +4,6 @@
 
 # Real time video abstraction
 This python project implements the algorithm described in "Real-Time Video Abstraction" (Winnemöller, Olsen, & Gooch, 2006).
-This code is part of the final project of CSC 589 (2015 Spring) by Dr. Bei Xiao.
 
 
 The algorithm includes the following steps.
