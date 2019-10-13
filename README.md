@@ -1,8 +1,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/issues/)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/language-Python-red.svg)]()
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=paired_comparison)
-![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=paired_comparison)
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=real-time-video-abstraction)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=real-time-video-abstraction)
 
 # Real time video abstraction
 This python project implements the algorithm described in "Real-Time Video Abstraction" (Winnemöller, Olsen, & Gooch, 2006).
