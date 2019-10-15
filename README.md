@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/language-Python-red.svg)]()
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=real-time-video-abstraction)
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=real-time-video-abstraction)
+> since 2019-10-13
 
 # Real time video abstraction
 This python project implements the algorithm described in "Real-Time Video Abstraction" (Winnemöller, Olsen, & Gooch, 2006).
